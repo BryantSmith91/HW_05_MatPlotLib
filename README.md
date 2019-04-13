@@ -8,7 +8,7 @@
 
 ![png](Pyber/Images/PyberRideSharingData.png)
 
-###### The next two pieces of the analysis can be seen in the trio of charts at the below them.
+###### The next two pieces of the analysis can be seen in the trio of charts at the bottom.
 
 + Overall, rural areas had the least usage of the Pyber ridesharing service.  This trend is visible given the low percentage of rides, drivers, and total fares.  
 
